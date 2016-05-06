@@ -22,3 +22,6 @@ nbdist/
 nbactions.xml
 .nb-gradle/
 nb-configuration.xml
+
+# project
+!poi-3.10.1-20140818.jar
